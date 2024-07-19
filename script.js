@@ -60,8 +60,8 @@ function checkWinner(yourMove){
   document.querySelector('.js-result')
     .innerHTML = `${result}.`;
   document.querySelector('.js-move')
-  .innerHTML = `You <img src="icons/${yourMove}-emoji.png"  class="move-icon">  
-  <img src="icons/${computerMove}-emoji.png" class="move-icon">Computer `;
+  .innerHTML = `You <img src="${yourMove}-emoji.png"  class="move-icon">  
+  <img src="${computerMove}-emoji.png" class="move-icon">Computer `;
   elementUpdate();
 }
 function elementUpdate(){

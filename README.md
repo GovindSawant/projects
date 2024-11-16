@@ -26,7 +26,7 @@ Paper beats Rock
 The score will be updated after each round.
 
 Installation
-you can play this game on 
+you can play this game on https://govindsawant.github.io/rock-paper-scissor-game-project/
 
 Credits
 SuperSimpleDev - For the amazing tutorial and guidance.

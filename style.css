@@ -40,7 +40,10 @@ main {
 .score {
   font-size: 13px;
 }
-.reset-button {
+.reset-button,
+.auto-play-button,
+button {
+  cursor: pointer;
   background-color: white;
   border: none;
   font-size: 12px;
